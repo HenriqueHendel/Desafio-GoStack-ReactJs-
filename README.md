@@ -1,0 +1,2 @@
+# Desafio-GoStack-ReactJs
+Neste desafio, temos que desenvolver uma aplicação web em ReactJs capaz de fazer requisições à API desenvolvida em Nodejs. Essa aplicação deve ser capaz de listar os repositórios que a Api retorna, criar um novo repositório e remover um repositório já existente. A API pode ser verificada no repositório [Desafio-GoStack-NodeJS](https://github.com/HenriqueHendel/Desafio-GoStack-NodeJs) deste mesmo GITHUB.
